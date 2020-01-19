@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c206daf6f695aa74784e34c6a6f73e9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Blank: {fileID: 2100000, guid: b46c48a53bd43d147a1bb5c9d0934e6d, type: 2}
+  - Breeze: {fileID: 2100000, guid: 9431add620ece8e44b079ac5f2f41d51, type: 2}
+  - Gold: {fileID: 2100000, guid: f2b835032cfd8264c93d9dc3876c487c, type: 2}
+  - Monster: {fileID: 2100000, guid: 410e5892cb6e98c42a57b2e03dcf779b, type: 2}
+  - Pit: {fileID: 2100000, guid: abf877756dae82f46a0a34a0edecf777, type: 2}
+  - Player: {fileID: 2100000, guid: 1c5c801df071e114bbf80344f24763b8, type: 2}
+  - Stench: {fileID: 2100000, guid: 1c5fb9f3be341ba4ea0c8b9b68f498fb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
