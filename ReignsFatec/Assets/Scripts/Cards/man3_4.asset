@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd301da0fdd661946b040040779362b7, type: 3}
+  m_Name: man3_4
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Engenheiro
+  sprite: 2
+  dialogue: Posso cobrar mais caro pelo viaduto e desviar um pouco de verba.
+  leftQuote: "Fa\xE7a isso, aqui est\xE1 minha conta."
+  rightQuote: "Fa\xE7a isso e vou prende-lo."
+  kFlorestLeft: 0
+  kPeopleLeft: 0
+  kHealthLeft: 0
+  kMoneyLeft: -10
+  kFlorestRight: 0
+  kPeopleRight: 0
+  kHealthRight: 0
+  kMoneyRight: 0

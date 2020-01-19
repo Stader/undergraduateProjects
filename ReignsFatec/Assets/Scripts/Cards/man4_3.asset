@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd301da0fdd661946b040040779362b7, type: 3}
+  m_Name: man4_3
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Homem Comum
+  sprite: 3
+  dialogue: Podemos organizar uma campanha de vacinas?
+  leftQuote: Sim, o povo precisa ser vacinado.
+  rightQuote: "N\xE3o, as vacinas s\xE3o uma mentira."
+  kFlorestLeft: 0
+  kPeopleLeft: 0
+  kHealthLeft: 10
+  kMoneyLeft: -5
+  kFlorestRight: 0
+  kPeopleRight: 0
+  kHealthRight: -10
+  kMoneyRight: 5
