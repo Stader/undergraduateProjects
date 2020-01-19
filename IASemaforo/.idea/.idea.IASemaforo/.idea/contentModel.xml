@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Rafael\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Rafael\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_IASemaforo.-780281014.00" t="ExcludeRecursive" />
+    <e p="J:\_Fatec\IA\IASemaforo" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="CarroMove.cs" t="Include" />
+        <e p="ControlCamera.cs" t="Include" />
+        <e p="DestroyCar.cs" t="Include" />
+        <e p="DetectCar.cs" t="Include" />
+        <e p="GameController.cs" t="Include" />
+        <e p="GenerateCar.cs" t="Include" />
+        <e p="Semaforo.cs" t="Include" />
+        <e p="Timer.cs" t="Include" />
+      </e>
+      <e p="IASemaforo.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
