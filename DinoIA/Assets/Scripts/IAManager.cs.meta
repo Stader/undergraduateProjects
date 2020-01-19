@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 68552645cc2475b45b7ffce6625c717c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dinoPrefab: {fileID: 1020710802017766847, guid: 8533f9d4cb4b5d8458f0fac16ebd4f91,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
